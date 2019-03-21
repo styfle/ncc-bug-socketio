@@ -1,0 +1,11 @@
+{
+  "name": "ncc-bug-socketio",
+  "version": "1.0.0",
+  "description": "ncc bug with socket.io",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
